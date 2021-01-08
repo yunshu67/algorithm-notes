@@ -1,3 +1,5 @@
+For english version: https://dev.to/yunshu67/union-find-3pka
+
 ## 可以解决的问题
 
 1. 给出未知类别的n个元素，将这些元素根据给定的规则进行划分类别
